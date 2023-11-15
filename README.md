@@ -20,11 +20,24 @@ Check out my apps on the Google Play Store:
 
 I love working with a variety of technologies. Here are some of the tools and languages you might find in my repositories:
 
-- Python
 - JavaScript (Node.js)
 - HTML, CSS, and JavaScript
 - React
 - Git
+- Python🐍
+- IT Automation
+- IT Support
+- Data Science📈
+- AI
+- ML Specialization🤖
+- R
+- SQL
+- C,C++
+- Android Dev
+- Java
+- Kotlin
+- 5⭐HackerRank(C,C++,Python)
+- CSS
 
 ## 📝 Latest Blog Posts
 
