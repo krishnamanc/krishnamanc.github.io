@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm passionate about data science, technology, cod
 
 - **LinkedIn**: [Krishna Kumar Manchala](https://www.linkedin.com/in/krishnakumarmanchala)
 - **Twitter**: [@manckrish](https://twitter.com/manckrish)
+- **GitHub**: [@krishnamanc](https://github.com/krishnamanc)
 - **Email**: manchaalakrishnakumar@gmail.com
 
 ## 📱 Android Developer
