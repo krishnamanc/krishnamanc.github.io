@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Krishna Kumar Manchala
+# Hi there! 👋 
+# I'm Krishna Kumar Manchala
 
 Welcome to my GitHub profile! I'm passionate about data science, technology, coding, and building cool stuff. Feel free to explore my repositories and connect with me on various platforms.
 
