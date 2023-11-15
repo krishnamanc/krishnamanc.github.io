@@ -16,28 +16,24 @@ Check out my apps on the Google Play Store:
 2. [CGPA Calculator](https://play.google.com/store/apps/details?id=com.krish.kkmanc.cgpacalc)
 3. [Tetris](https://play.google.com/store/apps/details?id=com.krish.kkmanc.tetris)
 
-## 💻 Technologies & Tools
+## 💻 Technologies, languages & Tools
 
-I love working with a variety of technologies. Here are some of the tools and languages you might find in my repositories:
-
-- JavaScript (Node.js)
-- HTML, CSS, and JavaScript
-- React
-- Git
 - Python🐍
+- Data Science📈
+- Artificial Intelligence(AI)
+- ML Specialization🤖
 - IT Automation
 - IT Support
-- Data Science📈
-- AI
-- ML Specialization🤖
 - R
 - SQL
 - C,C++
-- Android Dev
+- Android Development
 - Java
 - Kotlin
 - 5⭐HackerRank(C,C++,Python)
 - CSS
+- JavaScript (Node.js)
+- Git
 
 ## 📝 Latest Blog Posts
 
