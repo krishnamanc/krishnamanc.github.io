@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! I'm passionate about data science, technology, coding, and building cool stuff. Feel free to explore my repositories and connect with me on various platforms.
 
-## 🌐 Connect with Me
+## 🌐 Click on the link below to view my badges on credly
 
-- **LinkedIn**: [Krishna Kumar Manchala](https://www.linkedin.com/in/krishnakumarmanchala)
+- **Credly**: [Krishna Kumar Manchala](https://www.credly.com/users/krishmanc/badges?sort=-state_updated_at&page=1)
 
 ## 🌐 Connect with Me
 
