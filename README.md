@@ -5,6 +5,10 @@ Welcome to my GitHub profile! I'm passionate about data science, technology, cod
 ## 🌐 Connect with Me
 
 - **LinkedIn**: [Krishna Kumar Manchala](https://www.linkedin.com/in/krishnakumarmanchala)
+
+## 🌐 Connect with Me
+
+- **LinkedIn**: [Krishna Kumar Manchala](https://www.linkedin.com/in/krishnakumarmanchala)
 - **Twitter**: [@manckrish](https://twitter.com/manckrish)
 - **GitHub**: [@krishnamanc](https://github.com/krishnamanc)
 - **Email**: manchaalakrishnakumar@gmail.com
